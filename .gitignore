@@ -1,0 +1,17 @@
+# 操作系統文件
+.DS_Store
+Thumbs.db
+
+# 編輯器文件
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 依賴目錄
+node_modules/
+
+# 日誌文件
+*.log
+
+# 環境文件
+.env
